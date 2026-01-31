@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kanishk Gupta</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Developer;Mobile+App+Developer;+%26+AI/ML+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Developer;Mobile+App+Developer;AI/ML+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
