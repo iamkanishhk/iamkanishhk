@@ -1,9 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Kanishk Gupta</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&weight=600&size=24&pause=1000&color=36BCF7&width=435&lines=MERN+Stack+Developer;Mobile+App+Developer;Machine+Learning+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" /></a>
-</p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="kanishk-276's GitHub profile" src="dark_mode.svg" />
+</picture>
 ---
 
 ### 🚀 About Me
